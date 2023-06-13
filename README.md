@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-An Open Source Software account for managing OSS without repo noises.
+A noise-free OSS account, will only host serious repos.
 
-[Personal account](https://github.com/Ghamza-Jd)
+👉 [Personal account](https://github.com/Ghamza-Jd)
